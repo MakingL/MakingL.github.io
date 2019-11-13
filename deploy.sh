@@ -2,20 +2,19 @@
 DIR=`dirname $0`
 
 # Generate blog
-hexo clean
-hexo generate
-sleep 1
+hexo clean ; hexo generate; hexo deploy
+sleep
 
 # Deploy
-hexo deploy
-sleep 3
+# hexo deploy
+# sleep 5
 
 # Push hexo code
 git add .
 current_date=`date "+%Y-%m-%d %H:%M:%S"`
-git commit -m "Blog updated: $current_date"
+git commit -m "updated: $current_date"
 
-sleep 2
+sleep 5
 git push backup hexo
 
 echo "=====>Finish!<====="
