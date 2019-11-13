@@ -3,7 +3,7 @@ DIR=`dirname $0`
 
 # Generate blog
 hexo clean ; hexo generate; hexo deploy
-sleep
+sleep 5
 
 # Deploy
 # hexo deploy
