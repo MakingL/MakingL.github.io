@@ -18,3 +18,4 @@ sleep 5
 git push origin backup
 
 echo "=====>Finish!<====="
+sleep 5
