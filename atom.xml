@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://makingl.github.io/"/>
-  <updated>2019-11-13T03:43:54.680Z</updated>
+  <updated>2019-11-13T04:16:23.528Z</updated>
   <id>https://makingl.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客部署完测试一下</title>
+    <link href="https://makingl.github.io/2019/11/13/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>https://makingl.github.io/2019/11/13/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</id>
+    <published>2019-11-13T04:00:20.000Z</published>
+    <updated>2019-11-13T04:16:23.528Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="BB-两句"><a href="#BB-两句" class="headerlink" title="BB 两句"></a>BB 两句</h2><p>花了两天时间， 弄了一下个人 GitHub Page， 其实一直想弄一个自己的博客网站的，虽然自己平时也在 CSDN 上写博客，主要是记录一些自己平时学习的笔记，方便以后自己查找，但是总觉得还是应该有个自己的博客网站，以方便自己以后将自己的笔记备份、迁移。</p><a id="more"></a><p>前两天心血来潮，网上搜了一下搭建 Github Page 的网站，确定了 Hexo + NexT 方案， 然后就一波操作，修改配置，创库、部署，一套下来真是累。</p><p>先发个文章看下效果。Cheers!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;BB-两句&quot;&gt;&lt;a href=&quot;#BB-两句&quot; class=&quot;headerlink&quot; title=&quot;BB 两句&quot;&gt;&lt;/a&gt;BB 两句&lt;/h2&gt;&lt;p&gt;花了两天时间， 弄了一下个人 GitHub Page， 其实一直想弄一个自己的博客网站的，虽然自己平时也在 CSDN 上写博客，主要是记录一些自己平时学习的笔记，方便以后自己查找，但是总觉得还是应该有个自己的博客网站，以方便自己以后将自己的笔记备份、迁移。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://makingl.github.io/categories/test/"/>
+    
+    
+      <category term="测试" scheme="https://makingl.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>测试的文章</title>

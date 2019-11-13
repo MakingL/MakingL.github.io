@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>博客部署完测试一下</title>
+    <url>/2019/11/13/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
+    <content><![CDATA[<h2 id="BB-两句"><a href="#BB-两句" class="headerlink" title="BB 两句"></a>BB 两句</h2><p>花了两天时间， 弄了一下个人 GitHub Page， 其实一直想弄一个自己的博客网站的，虽然自己平时也在 CSDN 上写博客，主要是记录一些自己平时学习的笔记，方便以后自己查找，但是总觉得还是应该有个自己的博客网站，以方便自己以后将自己的笔记备份、迁移。</p>
+<a id="more"></a>
+
+
+<p>前两天心血来潮，网上搜了一下搭建 Github Page 的网站，确定了 Hexo + NexT 方案， 然后就一波操作，修改配置，创库、部署，一套下来真是累。</p>
+<p>先发个文章看下效果。Cheers!</p>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>测试的文章</title>
     <url>/2019/11/12/%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<h1 id="这是一篇测试-Markdown-语法的文章，也是测试博客的文章"><a href="#这是一篇测试-Markdown-语法的文章，也是测试博客的文章" class="headerlink" title="这是一篇测试 Markdown 语法的文章，也是测试博客的文章"></a>这是一篇测试 Markdown 语法的文章，也是测试博客的文章</h1><p>这是一句更新测试的句子</p>
