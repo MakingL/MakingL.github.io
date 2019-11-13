@@ -114,7 +114,7 @@ sitemap:
 deploy:
   type: 'git'
   repository:
-    github: git@github.com:MakingL/MakingL.github.io.git, master
+    github: git@github.com:MakingL/MakingL.github.io.git,master
 
 # Search
 search:
