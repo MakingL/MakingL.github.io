@@ -106,8 +106,8 @@ footer:
 creative_commons:
   license: by-nc-sa
   sidebar: false
-  post: false
-  language:
+  post: true
+  language: zh-CN
 
 
 # ---------------------------------------------------------------
@@ -231,7 +231,7 @@ toc:
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
   expand_all: true
   # Maximum heading depth of generated toc.
-  max_depth: 6
+  max_depth: 3
 
 # A button to open designated chat widget in sidebar.
 # Firstly, you need enable the chat service you want to activate its sidebar button.
@@ -275,7 +275,7 @@ post_meta:
 symbols_count_time:
   separated_meta: true  # 是否换行显示 字数统计 及 阅读时长
   item_text_post: true  # 文章 字数统计 阅读时长 使用图标 还是 文本表示
-  item_text_total: false  # 博客底部统计 字数统计 阅读时长 使用图标 还是 文本表示
+  item_text_total: true  # 博客底部统计 字数统计 阅读时长 使用图标 还是 文本表示
   awl: 4
   wpm: 275
 
@@ -373,25 +373,25 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: normal
+  highlight_theme: solarized
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
-    show_result: false
+    show_result: true
     # Available values: default | flat | mac
-    style:
+    style: mac
 
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: false
+  sidebar: true
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: top | bottom
   position: top
   color: "#37c6c0"
@@ -399,7 +399,7 @@ reading_progress:
 
 # Bookmark Support
 bookmark:
-  enable: false
+  enable: true
   # Customize the color of the bookmark.
   color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
@@ -605,7 +605,7 @@ comments:
 
 # Disqus
 disqus:
-  enable: tags
+  enable: true
   shortname: mlee-de-ge-ren-bo-ke
   count: true
   lazyload: true
@@ -748,7 +748,7 @@ busuanzi_count:
   total_visitors_icon: user
   total_views: true
   total_views_icon: eye
-  post_views: false
+  post_views: true
   post_views_icon: eye
   # # custom uv span for the whole site
   # site_uv: true
@@ -865,7 +865,7 @@ pdf:
 
 # Mermaid tag
 mermaid:
-  enable: false
+  enable: true
   # Available themes: default | dark | forest | neutral
   theme: forest
 
@@ -912,9 +912,9 @@ pace:
 three:
   enable: true
   three_waves: false
-  canvas_nest: true
+  canvas_nest: false
   canvas_lines: false
-  canvas_sphere: false
+  canvas_sphere: true
 
 # Canvas-nest
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest
