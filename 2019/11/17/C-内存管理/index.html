@@ -53,18 +53,18 @@
   };
 </script>
 
-  <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.">
-<meta name="keywords" content="测试">
+  <meta name="description" content="引导语在 C++ 中，内存是通过 new 表达式分配，通过 delete 表达式释放的。标准库还定义了一个 allocator 类来分配动态内存块（allocator 可以实现内存分配和对象构造的分离）。 内存的正确释放是非常容易出错的地方： 要么内存永远不会被释放（内存泄漏），要么在仍有指针引用它时就被释放了（内存的二次释放问题）。新的标准库定义了智能指针类型—— shared_ptr、uniq">
+<meta name="keywords" content="C++,内存管理">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hello World">
-<meta property="og:url" content="https:&#x2F;&#x2F;makingl.github.io&#x2F;2019&#x2F;11&#x2F;11&#x2F;hello-world&#x2F;index.html">
+<meta property="og:title" content="C++ 内存管理">
+<meta property="og:url" content="https:&#x2F;&#x2F;makingl.github.io&#x2F;2019&#x2F;11&#x2F;17&#x2F;C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86&#x2F;index.html">
 <meta property="og:site_name" content="MLee">
-<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.">
+<meta property="og:description" content="引导语在 C++ 中，内存是通过 new 表达式分配，通过 delete 表达式释放的。标准库还定义了一个 allocator 类来分配动态内存块（allocator 可以实现内存分配和对象构造的分离）。 内存的正确释放是非常容易出错的地方： 要么内存永远不会被释放（内存泄漏），要么在仍有指针引用它时就被释放了（内存的二次释放问题）。新的标准库定义了智能指针类型—— shared_ptr、uniq">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-11-12T12:53:28.645Z">
+<meta property="og:updated_time" content="2019-11-17T08:35:43.157Z">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://makingl.github.io/2019/11/11/hello-world/">
+<link rel="canonical" href="https://makingl.github.io/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/">
 
 
 <script id="page-configurations">
@@ -78,7 +78,7 @@
   };
 </script>
 
-  <title>Hello World | MLee</title>
+  <title>C++ 内存管理 | MLee</title>
   
 
 
@@ -218,7 +218,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://makingl.github.io/2019/11/11/hello-world/">
+    <link itemprop="mainEntityOfPage" href="https://makingl.github.io/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/image.jpg">
@@ -231,7 +231,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Hello World
+          C++ 内存管理
         </h1>
 
         <div class="post-meta">
@@ -240,24 +240,18 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               <span class="post-meta-item-text">发表于</span>
+              
 
-              <time title="创建时间：2019-11-11 22:39:54" itemprop="dateCreated datePublished" datetime="2019-11-11T22:39:54+08:00">2019-11-11</time>
+              <time title="创建时间：2019-11-17 16:19:59 / 修改时间：16:35:43" itemprop="dateCreated datePublished" datetime="2019-11-17T16:19:59+08:00">2019-11-17</time>
             </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-calendar-check-o"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2019-11-12 20:53:28" itemprop="dateModified" datetime="2019-11-12T20:53:28+08:00">2019-11-12</time>
-              </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="fa fa-folder-o"></i>
               </span>
               <span class="post-meta-item-text">分类于</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/test/" itemprop="url" rel="index">
-                    <span itemprop="name">test</span>
+                  <a href="/categories/C/" itemprop="url" rel="index">
+                    <span itemprop="name">C++</span>
                   </a>
                 </span>
             </span>
@@ -278,8 +272,8 @@
       </span>
       <span class="post-meta-item-text">Disqus：</span>
     
-    <a title="disqus" href="/2019/11/11/hello-world/#comments" itemprop="discussionUrl">
-      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2019/11/11/hello-world/" itemprop="commentCount"></span>
+    <a title="disqus" href="/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/#comments" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2019/11/17/C-内存管理/" itemprop="commentCount"></span>
     </a>
   </span>
   
@@ -289,14 +283,14 @@
                 <i class="fa fa-file-word-o"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>357</span>
+              <span>2.8k</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
                 <i class="fa fa-clock-o"></i>
               </span>
                 <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>1 分钟</span>
+              <span>3 分钟</span>
             </span>
 
         </div>
@@ -308,21 +302,143 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+        <h2 id="引导语"><a href="#引导语" class="headerlink" title="引导语"></a>引导语</h2><p>在 C++ 中，内存是通过 new 表达式分配，通过 delete 表达式释放的。标准库还定义了一个 allocator 类来分配动态内存块（allocator 可以实现内存分配和对象构造的分离）。</p>
+<p>内存的正确释放是非常容易出错的地方： 要么内存永远不会被释放（<strong>内存泄漏</strong>），要么在仍有指针引用它时就被释放了（<strong>内存的二次释放问题</strong>）。新的标准库定义了智能指针类型—— shared_ptr、unique_ptr 和 weak_ptr，可令动态内存管理更为安全。</p>
 <a id="more"></a>
 
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>操作系统提供的资源除了内存，还有文件描述符、互斥锁、图形界面中的字型和笔刷、数据库连接以及网络 socket。不论哪种资源，<em>当程序不再使用它时，必须将它还给系统</em>。</p>
+<p>尝试在任何运用情况下都确保以上所言，是件困难的事，尤其当考虑到异常、函数内多重回传路径、程序维护员改动软件却没能充分理解随之而来的冲击，态势就更明显了：资源管理的特殊手段还不很充分够用。</p>
+<h2 id="标准库提供的智能指针类型"><a href="#标准库提供的智能指针类型" class="headerlink" title="标准库提供的智能指针类型"></a>标准库提供的智能指针类型</h2><table>
+<thead>
+<tr>
+<th align="center">指针类型</th>
+<th align="center">特征</th>
+<th align="center">特征操作</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">shared_ptr</td>
+<td align="center">引用计数管理资源</td>
+<td align="center">获得原始指针 get()</td>
+</tr>
+<tr>
+<td align="center">unique_ptr</td>
+<td align="center">某一时刻都只能有一个 unique_ptr 指向给定对象（auto_ptr 的替代品）</td>
+<td align="center">release()、reset()；不能直接拷贝或赋值</td>
+</tr>
+<tr>
+<td align="center">weak_ptr</td>
+<td align="center">不控制所指向的对象生命周期，指向一个由 shared_ptr 管理的对象</td>
+<td align="center">不能使用 weak_ptr 直接访问对象，而必须调用 lock() 方法</td>
+</tr>
+</tbody></table>
+<p>shared_ptr 不直接支持管理动态数组，若要使用，需要提供自己定义的删除器</p>
+<ul>
+<li><p>与 unique_ptr 不同，shared_ptr 不直接支持管理动态数组。如果希望使用 shared_ptr 管理一个动态数组，必须提供自己定义的删除器：</p>
+  <figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">shared_ptr</span>&lt;<span class="keyword">int</span>&gt; sp(<span class="keyword">new</span> <span class="keyword">int</span>[<span class="number">10</span>], [](<span class="keyword">int</span> *p) &#123;  <span class="keyword">delete</span>[] p; &#125;);   <span class="comment">// 为了使用 shared_ptr 管理动态数组，必须提供一个删除器</span></span><br><span class="line">sp.reset(); <span class="comment">// 使用指定的删除器： lambda 表达式释放数组，它使用 delete[]</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+<h2 id="C-动态内存的实践建议"><a href="#C-动态内存的实践建议" class="headerlink" title="C++ 动态内存的实践建议"></a>C++ 动态内存的实践建议</h2><ol>
+<li><p>以对象管理资源</p>
+<ul>
+<li><p>获得资源后立刻放进资源管理对象内。资源取得时机便是初始化时机（RAII， <strong>后面的 RAII 对象即是指此类对象</strong>）。</p>
+</li>
+<li><p>资源管理对象运用析构函数确保资源被释放。不论控制流如何离开区块，一旦对象被销毁，其析构函数自然就会被自动调用，于是资源被释放。</p>
+</li>
+<li><p>在以对象管理资源的情况下，如何解决二次释放的问题： 引用计数型指针。标准库提供了 shared_ptr、unique_ptr 和 weak_ptr 三种智能指针类型。</p>
+<p>  一个类使用动态生存期的资源，可能是出于以下需求之一：</p>
+<ul>
+<li>程序不知道自己需要使用多少对象</li>
+<li>程序不知道所需对象的准确类型</li>
+<li>程序需要在<strong>多个对象间共享数据</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>在资源管理类中小心 copying 行为</p>
+<ul>
+<li>复制 RAII 对象必须一并复制它所管理的资源，以资源的 copying 行为决定 RAII 对象的 copying 行为</li>
+<li>普遍而常见的 RAII class copying 行为是： 抑制（或者禁止） copying、施行引用计数法(reference counting)</li>
+</ul>
+</li>
+<li><p>在资源管理类中提供对原始资源的访问</p>
+<ul>
+<li>APIs 往往要求访问原始资源 (raw resource)（比如为了与 C 语言留下的接口兼容）, 所以每隔 RAII class 应该提供一个 “取得其所管理之资源”的办法</li>
+<li>对原始资源的访问可能经由显示转换或隐式转换。一般而言显示转换比较安全，但隐式转换对客户比较方便</li>
+</ul>
+</li>
+<li><p>使用智能指针时应该坚持的基本规范</p>
+<ul>
+<li>不使用相同的内置指针值初始化（或 release）多个智能指针</li>
+<li>不 delete get() （shared_ptr 提供的返回原始指针的方法）返回的指针</li>
+<li>不使用 get() 返回的指针初始化或 reset 另一个智能指针</li>
+<li>如果使用智能指针管理的资源不是 new 分配的内存，记住传递给它一个删除器</li>
+</ul>
+</li>
+<li><p>成对使用 new 和 delete 时要采取相同形式</p>
+<ul>
+<li>如果在 new 表达式中使用 <code>[]</code>，必须在相应的 delete 表达式中也使用 <code>[]</code>，如果在 new 表达式中不使用 <code>[]</code>，一定不要在相应的 delete 表达式中使用 <code>[]</code>。</li>
+<li>当使用 new 时（也就是通过 new 动态生成一个对象），有两件事发生，第一，内存会被分配出来，第二，针对此内存会有一个（或更多）构造函数被调用。当使用 delete，也有两件事发生：针对此内存会有一个（或更多） 析构函数被调用，然后内存才被释放。delete 的最大问题在于： 即将被删除的内存之内究竟由多少对象？ (这个问题主要由 <code>delete</code> 和 <code>delete []</code> 以区别)</li>
+</ul>
+</li>
+<li><p>以独立语句将 new 出来的对象置入智能指针</p>
+<ul>
+<li><p>以独立语句将 newed 对象存储于 （置入）智能指针内。如果不这样，一旦异常被抛出，有可能导致难以察觉的资源泄漏</p>
+  <figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">processWidget(<span class="keyword">new</span> Widget, priority());</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<p>  对上面这条语句，在调用 processWidget 之前，编译器必须创建代码，做以下三件事:</p>
+<ul>
+<li><p>调用 priority</p>
+</li>
+<li><p>执行 “new Widget”</p>
+</li>
+<li><p>调用 shared_ptr 的构造函数</p>
+<p>但是编译器最终执行这三条语句的顺序是不确定的，也许是下面的这种顺序：</p>
+</li>
+</ul>
+<ol>
+<li><p>执行 “new Widget”</p>
+</li>
+<li><p>调用 priority</p>
+</li>
+<li><p>调用 shared_ptr 的构造函数</p>
+<p>如果在执行到第二条语句时发生了异常，则可能会造成在调用 processWidget 的过程中产生内存泄漏（并没有达到我们预期的用 shared_ptr 防卫内存泄漏的目的）。</p>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="malloc-和-delete-的区别"><a href="#malloc-和-delete-的区别" class="headerlink" title="malloc 和 delete 的区别"></a>malloc 和 delete 的区别</h2><ol>
+<li>C 语言其实是不支持动态内存分配的，是通过 malloc 库函数来实现的，可能一些硬件不支持 malloc；而 C++ 中 <code>new</code> 是一个关键字，不管是在任意编译器上，任意硬件上，都是能够进行动态内存分配的，这是本质区别。</li>
+<li>malloc 是基于<strong>字节</strong>来进行动态内存分配的， new 则是基于<strong>对象类型</strong>来进行动态内存分配。因此， malloc 需要自己指定申请的内存字节大小，而 new 可以不需要。</li>
+<li>malloc 不具备内存初始化的特性，而 new 默认会调用对象的构造函数初始化分配的内存</li>
+</ol>
+<h2 id="如何定义一个只能在堆上（栈上）生成对象的类"><a href="#如何定义一个只能在堆上（栈上）生成对象的类" class="headerlink" title="如何定义一个只能在堆上（栈上）生成对象的类"></a>如何定义一个只能在堆上（栈上）生成对象的类</h2><p>参考链接： <a href="https://github.com/huihut/interview#如何定义一个只能在堆上栈上生成对象的类" target="_blank" rel="noopener">huihut/interview</a></p>
+<h3 id="只能在堆上"><a href="#只能在堆上" class="headerlink" title="只能在堆上"></a>只能在堆上</h3><ul>
+<li><p>方法</p>
+<p>  将析构函数设置为私有</p>
+</li>
+<li><p>原因</p>
+<p>  C++ 是静态绑定语言，编译器管理栈上对象的生命周期，编译器在为类对象分配栈空间时，会先检查类的析构函数的访问性。若析构函数不可访问，则不能在栈上创建对象。</p>
+</li>
+<li><p>实践建议</p>
+<p>  此时 delete 也不能使用，建议将对象的构造和析构都封装成单独的函数，类似单例模式。</p>
+</li>
+</ul>
+<h3 id="只能在栈上"><a href="#只能在栈上" class="headerlink" title="只能在栈上"></a>只能在栈上</h3><ul>
+<li><p>方法</p>
+<p>  将 new 和 delete 重载为私有</p>
+</li>
+<li><p>原因</p>
+<p>  在堆上生成对象，使用 new 关键词操作，其过程分为两阶段：第一阶段，使用 new 在堆上寻找可用内存，分配给对象；第二阶段，调用构造函数生成对象。将 new 操作设置为私有，那么第一阶段就无法完成，就不能够在堆上生成对象。</p>
+</li>
+</ul>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ul>
+<li>《C++ Primer（第五版）》[美] Stanley B.Lippman 著，王刚，杨巨峰  译</li>
+<li>《Effective C++ （中文版 第三版）》[美] Scott Meyers 著，侯捷 译</li>
+</ul>
 
     </div>
 
@@ -338,7 +454,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://makingl.github.io/2019/11/11/hello-world/" title="Hello World">https://makingl.github.io/2019/11/11/hello-world/</a>
+    <a href="https://makingl.github.io/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/" title="C++ 内存管理">https://makingl.github.io/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/zh-CN" rel="noopener" target="_blank"><i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -350,21 +466,22 @@
       <footer class="post-footer">
           
           <div class="post-tags">
-              <a href="/tags/%E6%B5%8B%E8%AF%95/" rel="tag"><i class="fa fa-tag"></i> 测试</a>
+              <a href="/tags/C/" rel="tag"><i class="fa fa-tag"></i> C++</a>
+              <a href="/tags/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/" rel="tag"><i class="fa fa-tag"></i> 内存管理</a>
           </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-next post-nav-item">
+                <a href="/2019/11/13/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/" rel="next" title="博客部署完测试一下">
+                  <i class="fa fa-chevron-left"></i> 博客部署完测试一下
+                </a>
             </div>
 
             <span class="post-nav-divider"></span>
 
             <div class="post-nav-prev post-nav-item">
-                <a href="/2019/11/12/%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%87%E7%AB%A0/" rel="prev" title="测试的文章">
-                  测试的文章 <i class="fa fa-chevron-right"></i>
-                </a>
             </div>
           </div>
       </footer>
@@ -410,7 +527,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Quick-Start"><span class="nav-number">1.</span> <span class="nav-text">Quick Start</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-a-new-post"><span class="nav-number">1.1.</span> <span class="nav-text">Create a new post</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Run-server"><span class="nav-number">1.2.</span> <span class="nav-text">Run server</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Generate-static-files"><span class="nav-number">1.3.</span> <span class="nav-text">Generate static files</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Deploy-to-remote-sites"><span class="nav-number">1.4.</span> <span class="nav-text">Deploy to remote sites</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#引导语"><span class="nav-number">1.</span> <span class="nav-text">引导语</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#标准库提供的智能指针类型"><span class="nav-number">2.</span> <span class="nav-text">标准库提供的智能指针类型</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#C-动态内存的实践建议"><span class="nav-number">3.</span> <span class="nav-text">C++ 动态内存的实践建议</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#malloc-和-delete-的区别"><span class="nav-number">4.</span> <span class="nav-text">malloc 和 delete 的区别</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#如何定义一个只能在堆上（栈上）生成对象的类"><span class="nav-number">5.</span> <span class="nav-text">如何定义一个只能在堆上（栈上）生成对象的类</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#只能在堆上"><span class="nav-number">5.1.</span> <span class="nav-text">只能在堆上</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#只能在栈上"><span class="nav-number">5.2.</span> <span class="nav-text">只能在栈上</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#参考资料"><span class="nav-number">6.</span> <span class="nav-text">参考资料</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -609,9 +726,9 @@ if (document.querySelectorAll('pre.mermaid').length) {
       DISQUS.reset({
         reload: true,
         config: {page: {
-            url: "https://makingl.github.io/2019/11/11/hello-world/",
-            identifier: "2019/11/11/hello-world/",
-            title: "Hello World"
+            url: "https://makingl.github.io/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/",
+            identifier: "2019/11/17/C-内存管理/",
+            title: "C++ 内存管理"
           }
         }
       });
