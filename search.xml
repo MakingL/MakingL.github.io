@@ -1,6 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>暗时间 读书笔记——第一篇</title>
+    <url>/2019/11/25/%E6%9A%97%E6%97%B6%E9%97%B4-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+    <content><![CDATA[<h2 id="为何选择看这本书"><a href="#为何选择看这本书" class="headerlink" title="为何选择看这本书"></a>为何选择看这本书</h2><p>之前多次在不同地方看到有推荐看这本书，最近恰好手边没什么人文类书籍可看，在图书馆借书的时候，翻了一下此书目录，包括有关心理学、时间管理的主题，而且作者的表达简练，许多观点也比较契合本人观念，是一本适合利用琐碎时间看的书，故开始看此书。</p>
+<p>看书的时候发现，其实书中的内容作者其实也在其个人博客网站上发的有： <a href="http://mindhacks.cn/" target="_blank" rel="noopener">刘未鹏 | Mind Hacks</a>。</p>
+<h2 id="关于这个读书笔记"><a href="#关于这个读书笔记" class="headerlink" title="关于这个读书笔记"></a>关于这个读书笔记</h2><p>看此书的过程中发现许多观点其实自己也有过，只是过去没有总结、记笔记的习惯，语言表达也没有这么好。本人经常有这样的场景，脑袋里有一些想法，想记录下来的时候，发现脑袋里的一堆东西，只记下了短短几句话。嗯，总结能力欠缺！这其实也是我想要写博客的原因。看到作者也提倡记笔记，故索性写成读书笔记的形式，记录一些个人觉得精彩的语录，以及看书时所联想到的个人经历。</p>
+<a id="more"></a>
+
+<h2 id="精彩语录"><a href="#精彩语录" class="headerlink" title="精彩语录"></a>精彩语录</h2><h3 id="暗时间"><a href="#暗时间" class="headerlink" title="暗时间"></a>暗时间</h3><ol>
+<li><blockquote>
+<p>善于利用思维时间的人，可以无形中比别人多出很多时间，从而实际意义上能比别人多活很多年。<strong>我们经常听说“心理年龄”这个词，思考得多的人，往往心理年龄更大</strong>。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>每个人的手表都走得一样快，但每个人的生命却不是。衡量一个人生活了多少年，应该用思维时间来计算。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>如果你有做总结的习惯，你在度过一段时间之后总结自己在某某领域投入了多少时间，建议千万不要粗略地去计算有多少天下班后拿起书来翻看过，因为这样你也许会发现书倒是常翻，但领悟却不见得多深，表面上花的时间不少，收益却不见得那么大。因为看书并记住书中的东西只是记忆，并没有涉及推理，<strong>只有靠推理才能深入理解一个事物</strong>，看到别人看不到的地方，这部分推理的过程就是你的思维时间，也是人一生中占据一个显著比例的“暗时间”，你走路、买菜、洗脸洗手、坐公车、逛街、出游、吃饭、睡觉，所有这些时间都可以成为“暗时间”，你可以充分利用这些时间进行思考，<strong>反刍和消化平时看和读的东西，让你的认识能够脱离照本宣科的层面</strong>。这段时间看起来微不足道，但日积月累将会产生庞大的效应。</p>
+</blockquote>
+<p> ( <strong>此部分是本人观点， 下同</strong> ) 看到有人的观点是，如果只是一味的记录别人的观点及知识点，没有自己的思考及观点，那么博客文章应该全是别人的，而不是自己的。的确，知识需要自己深入理解并总结后，用自己的话，简要的表述出来，才能够勉强算得上理解知识。</p>
+<p> 记得大学刚入学时，一位老师也是跟我说过，大学的许多专业知识是需要课后花大量时间去深入思考、理解的，有许多知识也许需要动手实践后才能完全理解的。大学期间深有体会，有时候想仅仅通过上课听老师讲就搞懂知识点，发现很有难度（<em>本人学的工科，且理解能力一般</em>），许多算法都是自己下来看了几遍，动手推导后才理解的。平时学习编程知识也深有体会，许多书上介绍的词法、语法，看书的时候往往不太理解，许多知识点本人通常是敲代码实践时才理解一些语法的作用（《如何阅读一本书》里介绍的阅读技术类书籍的技巧里有这一点）。</p>
+</li>
+<li><blockquote>
+<p>程序员们都知道，任务切换需要耗费许多额外的花销，通俗地来讲，首先需要保存当前上下文以便下次能够顺利切换回来，然后要加载目标任务的上下文。如果一个系统不停地在多个任务之间来回倒腾，就会耗费大量的时间在上下文切换上，无形中浪费很多的时间。相比之下，如果只做一件任务，就不会有此损失。<strong>这就是为什么专注的人比不专注的人时间利用效率高得多的原因</strong>。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>能够迅速进入专注状态，以及能够长期保持专注状态，是高效学习的两个最重要习惯。</p>
+</blockquote>
+</li>
+</ol>
+<h3 id="学会设计自己的进度条"><a href="#学会设计自己的进度条" class="headerlink" title="学会设计自己的进度条"></a>学会设计自己的进度条</h3><ol>
+<li><blockquote>
+<p>进度条的设计是一个很多人都知道的故事：<strong>同样的耗时，如果不给任何进度提示，只是在完成之后才弹出一个完成消息，中间没有任何动态变化，那么整个过程就会让人等得非常焦急，导致一些人干脆把程序关了了事</strong>。如果有进度不断更新，那么对整个过程耗时的心理感受就会远低于实际值，用户也不会郁闷到把程序关了。（你有多少次在银行处理手续的时候，看着工作人员把一堆材料不停地倒腾来去，心里多希望他们可以在柜台小窗口上投影一个进度条？）</p>
+</blockquote>
+<p> 给自己的任务、规划设置进度条，设置 TODO List，在给自己定制了长期目标以后通常还会定制短期目标，也许正是此原因，有了短期坚持及付出后能够达到的目标，目标的达成能够正向的激励我们持续的做下去，而且对于比较急的任务，当 TODO List 上的任务被一个一个的完成的时候，心里的焦虑通常会少很多。</p>
+</li>
+<li><blockquote>
+<p>所谓的规划其实就是针对这种心理弱点的做事方法。如果你对整个目标的几个重大步骤有清晰的界定，能够对每个步骤的耗时作出靠谱的上界估计，你就不会被不确定的未来，不确定的时间投入感到恐惧，就不会被这种不确定感压迫到过早退出。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>兴趣遍地都是，专注和持之以恒才是真正稀缺的。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>饿死在干草堆之间的驴子。有很多在迷茫期的同学，迷茫都是相似的：面前有两条路，到底选哪一条？“转行还是不转行？”“学C++还是学Java。？“做管理还是做程序员？”有些问题其实不是问题：比如“学C++还是学Java。”答案是都学而且还不仅学两个。有些问题不是一个泛泛的答案能够适合的，比如转行还是不转行，需要考虑很多自身因素。但更重要的是，有人会因为无法作出决定就推迟决定，然而<strong>实际上推迟决定是最差的决定，在推迟决定期间，时间悄悄流逝，你却没有任何一条路上的积累，白白浪费了时间</strong>。</p>
+</blockquote>
+<p> 在迷茫的时候，不妨先保证自己手边正在做的事被做好、甚至做精。本科的时候发现周边有同学整天焦虑以后不知道干嘛，总觉得自己不知道该选择从事哪方面的工作比较好，整天散布这种焦虑的情绪，甚至持续一段时间后觉得没事可做而去花大量时间打游戏，我觉得这种情况下至少可以选择把专业课学的更深入，或者直接着手干有点感兴趣的事，而不是花大量时间去打游戏。</p>
+</li>
+<li><blockquote>
+<p>一生的知识积累，自学的起码占90%</p>
+</blockquote>
+</li>
+</ol>
+<h3 id="如何有效地记忆与学习"><a href="#如何有效地记忆与学习" class="headerlink" title="如何有效地记忆与学习"></a>如何有效地记忆与学习</h3><ol>
+<li><blockquote>
+<p>你所拥有的知识并不取决于你记得多少，而在于它们能否在恰当的时候被回忆起来。学习新知识并将其存放于大脑中，最终的目的是要在恰当的时候能够想得起来去使用。因此，学习的有效性显然应该这样来衡量：当遇到需要用到学过的知识的时候，相关的知识是否会自动从你脑海中“蹦”出来，最起码——能否通过有意识的搜索将它们提取出来。</p>
+</blockquote>
+</li>
+</ol>
+<h3 id="学习密度和专注力"><a href="#学习密度和专注力" class="headerlink" title="学习密度和专注力"></a>学习密度和专注力</h3><ol>
+<li><blockquote>
+<p>真正的效率源自于内心对一个东西强烈的热忱，也就是我们俗称的追求，这时候从表层意识到深层意识都关注在这件事情上面，脑细胞高度活跃，才能创造最大的效率。为什么作诗的时候要趁着酒兴，就是因为少了这种狂热的专注，效率就低下了，<strong>一首诗作个好几天顶多是个平庸之作，跟交家庭作业也差不到哪去了</strong>。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>专注力为什么会对学习效率造成这么大的影响。这来源于两个方面，一是专注于一件事情能让表层意识全功率运作，这个是显式的效率。第二点，也是更重要的，它还能够使你的潜意识进入一种专注于这件事情的状态。有过连续几天乃至一周或更长时间思考同一个问题的人想必都有一种感觉，就是在这个思考的期间，有时候虽然表层意识因为种种原因不在思考这个问题了（比如睡觉，比如被其它事情中断），但潜意识层面仍然保留着其“惯性”，也就是说，潜意识层面仍然在做思考的努力，从而虽然表层意识被其它事情占据，但潜意识仍然将时间无形中利用起来了。这种无形中的时间利用日积月累可以产生宏大的效应。关于后一点，著名的例子有我们熟知的那个睡觉中想出苯的化学分子式的老大。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>关注有两种关注法，主动关注和被动关注，许多人对琐事错误的采取了主动式关注，比如常常回到家就开始想“今天还有哪些事没做完”，实际上，<strong>让这些不重要的事情自己来找你就可以了</strong>，即中断式被动关注，后者可以防止空转轮询浪费的时间，从而把最集中注意力的时间利用在最重要的事情上。</p>
+</blockquote>
+</li>
+</ol>
+<h3 id="学习习惯"><a href="#学习习惯" class="headerlink" title="学习习惯"></a>学习习惯</h3><h4 id="学习与思考"><a href="#学习与思考" class="headerlink" title="学习与思考"></a>学习与思考</h4><ol>
+<li><blockquote>
+<p><strong>看书挑剔，只看经典</strong>。在选择书籍的时候做足功课是对我们自己的时间负责。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>做读书笔记。<strong>一是将自己阅读的时候的思考（包括闪念）总结下来，二是将书中的好例子摘抄下来。</strong> 我觉得，人与人学习的差距不在资质上，而在花在思考的时间和思考的深度上（后两者常常也是相关的）。</p>
+</blockquote>
+<p> 关于记笔记及知识的总结，其实我在两年前已经意识到记笔记的重要性。之前的发现自己花了一两周才理解的知识点，过了几个月再次遇到的时候经常不能立刻想起来，虽然能够知道这个知识点自己学过，而且遇到问题时也知道某个知识点可以用于解决遇到的问题，但是经常需要回忆很久才能记起细节，甚至需要翻书。我个人觉得是我看书后没有及时总结、做笔记，加固对知识点的理解、记忆；当然这与我自己平时看技术书籍的时候没进行相应的实践验证的坏习惯有关系。</p>
+</li>
+<li><blockquote>
+<p>将思考成为习惯还有一个很大的好处——避免焦虑。感到焦虑的时候不妨思考吧，甚至完全可以去理性分析和思考导致焦虑的问题本身，将其拆解，分析来源，在不知不觉中，大脑的工作重心就从情绪模块转向了推理模块了，而且这思考也可能顺带更有效地解决了导致焦虑的问题呢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>学习一项知识，必须问自己三个重要问题：1. 它的本质是什么。2. 它的第一原则是什么。3. 它的知识结构是怎样的。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>人的思维天生就是极易流于表面来理解事物的（参见《Psychology of Problem Solving》第11章）。觉得自己理解了一个问题了么？条件反射性地问自己：你真的理解了吗？你真的理解了问题的本质了？ <strong>问题的本质到底是什么？目前我的理解是什么？我对这个理解感到满意吗？</strong> 这样的理解到底有什么建设性呢？等等。</p>
+</blockquote>
+</li>
+</ol>
+<h4 id="时间和效率"><a href="#时间和效率" class="headerlink" title="时间和效率"></a>时间和效率</h4><ol>
+<li><blockquote>
+<p>重要的事情优先（详见史蒂芬·柯维的《高效能人士的七个习惯》或《要事优先》）。<strong>尽量避免琐事骚扰，不重要的事情能不做就不做</strong>。有时候，紧急的事情往往只是当事人觉得必须马上做完才显得紧急或者干脆就是紧他人之急，最糟糕的就是纯属性格上原因觉得每件事情都得第一时间完成，很多看上去紧急的事情实际上并不是真的”不能再拖了”，有的干脆就并不需要或值得去做。有很多事情都是可以先放一放甚至完全let go的，否则的话就整天被所谓”紧急”的事情牵着鼻子走了。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><strong>重要的事情营造比较大的时间块来完成</strong>。比如一本好书，或者一个重要的知识点，最好不要切得太琐碎了看，否则看了后面忘了前面。不利于知识的组织&amp;联系。</p>
+</blockquote>
+<p> 在编写代码或者调试代码时，通常不愿意被新安排的事所打断，不紧急的事通常不会立刻去处理，我通常会将其安排到本人的下一步 TODO list 中，后面闲下来时再从  TODO List 中选择待完成的事情去做。</p>
+</li>
+<li><blockquote>
+<p>重视知识的本质：对于程序员来说这一点尤其重要，程序员行业的知识芜杂海量，而且总是在增长变化。很多人感叹跟不上新技术。应对这个问题的办法只能是：抓住不变量。 <strong>大量的新技术其实只是一层皮，背后的支撑技术其实都是十来年不变的东西。底层知识永远都不过时。</strong> 算法数据结构永远都不过时。基本的程序设计理论永远都不过时。良好的编码习惯永远都不过时。分析问题和解决问题的能力永远都不过时。强大的学习能力和旺盛的求知欲永远都不过时。你大脑的思维方式永远都不过时。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>重视积累的强大力量，万事提前准备：<strong>计划订长一点，自然就可以多获得准备的时间</strong>。反之，如果不知道目的是什么，就不知道往哪个方向上使劲，就容易产生无用功。</p>
+</blockquote>
+<p> 单从这方面来说，长期目标还是很有用的，长期有个目标可以避免自己经常陷入迷茫的状态。</p>
+</li>
+</ol>
+<h4 id="阅读方法"><a href="#阅读方法" class="headerlink" title="阅读方法"></a>阅读方法</h4><ol>
+<li><blockquote>
+<p><strong>趁着对一件事情有热情的时候，一股脑儿把万事开头那个最难的阶段熬过去。</strong> 万事开头难，因为从不了解到了解基本的一些事实，是一个新知识暴涨的阶段，这个时候的困难是最大的。有人熬不过去，觉得困难太大就放弃了。不过，狂热的兴趣可以抵消对困难的感觉，所以趁着对一件事情有热情的时候，开一个好头是很重要的。（当然，这并不是说持之以恒就不重要了）。当然，也许这个是因人而异的，对我来说我会在对一件事情有浓厚兴趣的时候非常专注地学习，把很多 groundworks 做掉。后面就会顺利一些了。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>根据主题来查阅资料，而不是根据资料来查阅主题。以前读书的时候是一本一本的读，眼里看到的是一本一本的书，现在则是一章、甚至一节一节的读，眼中看到的不是一本一本的书，而是一堆一堆的章节，一个一个的知识主题，<strong>按照主题来阅读，你会发现读的时候不再是老老实实地一本书看完看另一本，而是非常频繁地从一本书跳到另一本书，从一处资料跳到另一处资料，从而来获得多个不同的人对同一个主题是如何讲解的</strong>。</p>
+</blockquote>
+<p> 的确，如果只从一个角度去理解一个知识点，可能永远也不会彻底掌握它。技术可能会过时，但其的确有存在的价值，至少在其被创造的时候是有某种价值的，看待某些过失的技术，不妨结合其被创造时的环境，其主要被用来解决的问题，来思考其价值，也许会更容易理解该技术的思想。</p>
+</li>
+<li><blockquote>
+<p>区别好资料，坏资料。<em>好资料的特点：从问题出发；重点介绍方法背后的理念（ rationale ），注重直观解释，而不是方法的技术细节；按照方法被发明的时间流程来介绍（先是遇到了什么什么问题，然后怎样分析，推理，最后发现目前所使用的方法）。</em> 坏资料的特点是好资料的反面：上来就讲方法细节，仿佛某方法是从天上掉下来的，他们往往这样写“我们定义… 我们称… 我们进行以下几个步骤… ”。根本不讲为什么要用这个方法，人们最初是因为面对什么问题才想到这个方法的，其间又是怎样才想出了这么个方法的，方法背后的直观思想又是什么。实际上一个方法如果将其最终最简洁的形式直接表达出来往往丢失掉了绝大多数信息，这个丢掉的信息就是问题解决背后的思维过程。</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>为什么看不懂？如果看不懂一个知识，一般有如下几个可能的原因：1. 你看得不够使劲。对此古人总结过——书读百遍其义自现。2. 其中涉及到了你不懂的<strong>概念</strong>。这是技术性的不理解。这种情况就需要 Cross Reference 。如果一句话中用到了你不懂的概念，那就去查。3. <em>作者讲述的顺序不对</em>，你接着往下看，也许看到后面就明白了前面的了。</p>
+</blockquote>
+<p> 关于这点，我自己也常有体会。首先是平时老师上课，如果完全没预习的话，我会经常上课跟不上老师节奏，后来反思，其实是从一些概念开始跟不上老师的节奏的，后来我遇到这种情况就是，当听不懂老师讲的某个概念，而且确定是之前老师讲过的内容时，我会先跳过该知识点，而去集中听老师介绍的方法主要要解决的问题，或者算法的思路。我会经常看一些技术类书籍，有些书籍单独死磕某一段话就是搞不懂其意思，后来往后看其源代码、图表的内容，才恍然大悟。</p>
+</li>
+</ol>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>早就被这本书的大名所吸引，最近总算决定看一下这本书了。看了第一章，表示对文中的一些观点很赞同，因为之前自己看过基本心理学相关的书籍，思考总结时也有类似的感受（强行和大佬攀上关系.jpg 捂脸 :），只不过本人总结能力较弱，没有总结的有作者这么好。写完上面的读书笔记后，感受到了自己曾经坚持过的一些方法也是正确的，表示很开心。</p>
+<p>拿到这本书，第一眼感觉像是作者主观色彩比较浓厚的书，平时我是比较排斥看以作者主观观点为主的书籍的。但是读了几段关于时间管理的段落后，发现文章某些内容其实是在某些心理学书上找得到依据的，感觉文章内容更像是作者看了大量书籍后，加上一定的思考和总结，写出来的。一开始觉得文章结构比较散，后来看到作者个人博客上也发表的有响应的文章，对文章结构较散这一点能够理解了，文章像是作者随笔，分享一些自己思考的结果。</p>
+<p>恰巧本人最近在学英语，发现之前英语学的不是很好是因为自己用的比较少，而且没及时把英语学习中的一些小技巧总结下来。而且前段时间有点小焦虑，反思调整后看到这本这本书中的一些观点与自己的近期的一些感受相似，自然很开心。当然，书中的一些观点也是作者的个人观点，书中的例子也是作者自身经历的，这自然使得文章的内容更容易让人能够轻松快速地看懂，但其中的观点还是得有选择性的接受的。</p>
+<p>由于本人看书比较慢，目前就看了第一篇。但是总的来看，此书还是不负其大名的。希望能如书中所说，保持思考！</p>
+]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>暗时间</tag>
+        <tag>读书笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>C++ 内存管理</title>
     <url>/2019/11/17/C-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h2 id="引导语"><a href="#引导语" class="headerlink" title="引导语"></a>引导语</h2><p>在 C++ 中，内存是通过 new 表达式分配，通过 delete 表达式释放的。标准库还定义了一个 allocator 类来分配动态内存块（allocator 可以实现内存分配和对象构造的分离）。</p>
@@ -158,128 +310,6 @@
 
 <p>前两天心血来潮，网上搜了一下搭建 Github Page 的网站，确定了 Hexo + NexT 方案， 然后就一波操作，修改配置，创库、部署，一套下来真是累。</p>
 <p>先发个文章看下效果。Cheers!</p>
-]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试的文章</title>
-    <url>/2019/11/12/%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="这是一篇测试-Markdown-语法的文章，也是测试博客的文章"><a href="#这是一篇测试-Markdown-语法的文章，也是测试博客的文章" class="headerlink" title="这是一篇测试 Markdown 语法的文章，也是测试博客的文章"></a>这是一篇测试 Markdown 语法的文章，也是测试博客的文章</h1><p>这是一句更新测试的句子</p>
-<h1 id="这是-H1-一s级标题"><a href="#这是-H1-一s级标题" class="headerlink" title="这是 H1 一s级标题"></a>这是 H1 一s级标题</h1><h2 id="这是-H2-二级标题"><a href="#这是-H2-二级标题" class="headerlink" title="这是 H2 二级标题"></a>这是 H2 二级标题</h2><h3 id="这是-H3-三级标题"><a href="#这是-H3-三级标题" class="headerlink" title="这是 H3 三级标题"></a>这是 H3 三级标题</h3><h4 id="这是-H4-四级标题"><a href="#这是-H4-四级标题" class="headerlink" title="这是 H4 四级标题"></a>这是 H4 四级标题</h4><h5 id="这是-H5-五级标题"><a href="#这是-H5-五级标题" class="headerlink" title="这是 H5 五级标题"></a>这是 H5 五级标题</h5><h6 id="这是-H6-六级标题"><a href="#这是-H6-六级标题" class="headerlink" title="这是 H6 六级标题"></a>这是 H6 六级标题</h6><a id="more"></a>
-
-<h3 id="待办事项"><a href="#待办事项" class="headerlink" title="待办事项"></a>待办事项</h3><ul>
-<li><input disabled="" type="checkbox"> 未完成事项</li>
-<li><input checked="" disabled="" type="checkbox"> 完成事项</li>
-<li><input checked="" disabled="" type="checkbox"> 完成事项</li>
-</ul>
-<h3 id="html代码"><a href="#html代码" class="headerlink" title="html代码"></a>html代码</h3><div>html代码</div>
-
-<h3 id="流程图-语法"><a href="#流程图-语法" class="headerlink" title="流程图 (语法)"></a>流程图 (<a href="http://adrai.github.io/flowchart.js/" target="_blank" rel="noopener">语法</a>)</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">st=&gt;start: 开始</span><br><span class="line">e=&gt;end: 结束</span><br><span class="line">op=&gt;operation: 操作步骤</span><br><span class="line">cond=&gt;condition: 是 或者 否?</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure>
-
-<h3 id="序列图-语法"><a href="#序列图-语法" class="headerlink" title="序列图 (语法)"></a>序列图 (<a href="https://github.com/bramp/js-sequence-diagrams/blob/master/src/grammar.jison" target="_blank" rel="noopener">语法</a>)</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">小明-&gt;小李: 你好 小李, 最近怎么样?</span><br><span class="line">Note right of 小李: 小李想了想</span><br><span class="line">小李--&gt;小明: 还是老样子</span><br></pre></td></tr></table></figure>
-
-<h3 id="脚注-1x"><a href="#脚注-1x" class="headerlink" title="脚注^1x"></a>脚注<a href="脚注的用法">^1x</a></h3><h3 id="表格Tables"><a href="#表格Tables" class="headerlink" title="表格Tables"></a>表格Tables</h3><table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-<tr>
-<td>Content Cell</td>
-<td>Content Cell</td>
-</tr>
-</tbody></table>
-<h3 id="文字格式"><a href="#文字格式" class="headerlink" title="文字格式"></a>文字格式</h3><p><strong>这是文字粗体格式</strong></p>
-<p><strong>这是文字粗体格式</strong></p>
-<p><em>这是文字斜体格式</em></p>
-<p><em>这是文字斜体格式</em></p>
-<p><del>在文字上添加删除线</del></p>
-<h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><ul>
-<li>项目1<ul>
-<li>子项目1.1</li>
-<li>子项目1.2<ul>
-<li>子项目1.2.1</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>项目2</li>
-<li>项目3</li>
-</ul>
-<h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><ol>
-<li>项目1</li>
-<li>项目2</li>
-<li>项目3<ol>
-<li>项目3.1</li>
-<li>项目3.2</li>
-</ol>
-</li>
-</ol>
-<h3 id="有序列表起始编号"><a href="#有序列表起始编号" class="headerlink" title="有序列表起始编号"></a>有序列表起始编号</h3><ol start="58">
-<li>项目5</li>
-<li>项目6</li>
-</ol>
-<h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><p><img src="http://xiaoshujiang.com/favicon.ico" alt="图片名称"><br>链接<br><a href="http://xiaoshujiang.com" target="_blank" rel="noopener">链接名称</a></p>
-<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><blockquote>
-<p>第一行引用文字<br>第二行引用文字</p>
-</blockquote>
-<h3 id="水平线"><a href="#水平线" class="headerlink" title="水平线"></a>水平线</h3><hr>
-<h3 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h3><h4 id="行内代码"><a href="#行内代码" class="headerlink" title="行内代码"></a>行内代码</h4><p><code>var x = &quot;hello world&quot;</code></p>
-<h4 id="块代码"><a href="#块代码" class="headerlink" title="块代码"></a>块代码</h4><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@author</span> John Smith &lt;john.smith@example.com&gt;</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@version</span> 1.0</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="keyword">package</span> l2f.gameserver.model;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> &gt;&gt;++java.util.ArrayList++&lt;&lt;;</span><br><span class="line"></span><br><span class="line">&gt;&gt;~~<span class="keyword">public</span> <span class="keyword">abstract</span> <span class="class"><span class="keyword">class</span> <span class="title">L2Character</span> </span>&#123;~~&lt;&lt;</span><br><span class="line">&gt;&gt;++<span class="keyword">public</span> <span class="keyword">abstract</span> <span class="class"><span class="keyword">class</span> <span class="title">L2Character</span> <span class="keyword">extends</span> <span class="title">L2Object</span> </span>&#123;++&lt;&lt;</span><br><span class="line">  <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> Short ABNORMAL_EFFECT_BLEEDING = <span class="number">0x0_0_0_1</span>; <span class="comment">// not sure</span></span><br><span class="line"></span><br><span class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">moveTo</span><span class="params">(<span class="keyword">int</span> x, <span class="keyword">int</span> y, <span class="keyword">int</span> z)</span> </span>&#123;</span><br><span class="line">    _ai = <span class="keyword">null</span>;</span><br><span class="line">    _log.warning(<span class="string">"Should not be called"</span>);</span><br><span class="line">    <span class="keyword">if</span> (<span class="number">1</span> &gt; <span class="number">5</span>) &#123;</span><br><span class="line">      <span class="keyword">return</span>;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line"></span><br><span class="line">  <span class="comment">/** Task of AI notification */</span></span><br><span class="line">  <span class="meta">@SuppressWarnings</span>( &#123; <span class="string">"nls"</span>, <span class="string">"unqualified-field-access"</span>, <span class="string">"boxing"</span> &#125;)</span><br><span class="line">  &gt;&gt;==<span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">NotifyAITask</span> <span class="keyword">implements</span> <span class="title">Runnable</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">final</span> CtrlEvent _evt;</span><br><span class="line"></span><br><span class="line">    List&lt;String&gt; mList==&lt;&lt; = <span class="keyword">new</span> ArrayList&lt;String&gt;()</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">run</span><span class="params">()</span> </span>&#123;</span><br><span class="line">      <span class="keyword">try</span> &#123;</span><br><span class="line">        getAI().notifyEvent(_evt, _evt<span class="class">.<span class="keyword">class</span>, <span class="title">null</span>)</span>;</span><br><span class="line">      &#125; <span class="keyword">catch</span> (Throwable t) &#123;</span><br><span class="line">        t.printStackTrace();</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h3><h4 id="行内公式"><a href="#行内公式" class="headerlink" title="行内公式"></a>行内公式</h4><p>这是行内公式<code>!$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. $</code></p>
-<h4 id="块公式"><a href="#块公式" class="headerlink" title="块公式"></a>块公式</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$$\Gamma(z) = \int_0^\infty t^&#123;z-1&#125;e^&#123;-t&#125;dt\,.$$</span><br></pre></td></tr></table></figure>
-
-<h4 id="带编号的公式"><a href="#带编号的公式" class="headerlink" title="带编号的公式"></a>带编号的公式</h4><p><code>!$\eqref{ref1}$</code></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">\begin&#123;equation&#125;</span><br><span class="line">\int_0^\infty \frac&#123;x^22&#125;&#123;e^x-1&#125;\,dx = \frac&#123;\pi^4&#125;&#123;15&#125;\label&#123;ref1&#125;</span><br><span class="line">\end&#123;equation&#125;</span><br></pre></td></tr></table></figure>
-
-<p><code>!$\eqref{ref1}$</code></p>
-<h3 id="统计图"><a href="#统计图" class="headerlink" title="统计图"></a>统计图</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">&quot;data&quot;: [ [[0, 0], [1, 1]] ],</span><br><span class="line">&quot;options&quot;: &#123; &quot;yaxis&quot;: &#123; &quot;max&quot;: 1 &#125; &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="mermaid流程图，序列图，甘特图"><a href="#mermaid流程图，序列图，甘特图" class="headerlink" title="mermaid流程图，序列图，甘特图"></a>mermaid流程图，序列图，甘特图</h3><h4 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">graph TD;</span><br><span class="line">    A--&gt;B;</span><br><span class="line">    A--&gt;C;</span><br><span class="line">    B--&gt;D;</span><br><span class="line">    C--&gt;D;</span><br></pre></td></tr></table></figure>
-
-<h4 id="序列图"><a href="#序列图" class="headerlink" title="序列图"></a>序列图</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sequenceDiagram</span><br><span class="line">A-&gt;&gt; B: Query</span><br><span class="line">B-&gt;&gt; C: Forward query</span><br><span class="line">Note right of C: Thinking...</span><br><span class="line">C-&gt;&gt; B: Response</span><br><span class="line">B-&gt;&gt; A: Forward response</span><br></pre></td></tr></table></figure>
-
-<h4 id="甘特图"><a href="#甘特图" class="headerlink" title="甘特图"></a>甘特图</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gantt</span><br><span class="line">        dateFormat  YYYY-MM-DD</span><br><span class="line">        title Adding GANTT diagram functionality to mermaid</span><br><span class="line">        section A section</span><br><span class="line">        Completed task            :done,    des1, 2014-01-06,2014-01-08</span><br><span class="line">        Active task               :active,  des2, 2014-01-09, 3d</span><br><span class="line">        Future task               :         des3, after des2, 5d</span><br><span class="line">        Future task2               :         des4, after des3, 5d</span><br><span class="line">        section Critical tasks</span><br><span class="line">        Completed task in the critical line :crit, done, 2014-01-06,24h</span><br><span class="line">        Implement parser and jison          :crit, done, after des1, 2d</span><br><span class="line">        Create tests for parser             :crit, active, 3d</span><br><span class="line">        Future task in critical line        :crit, 5d</span><br><span class="line">        Create tests for renderer           :2d</span><br><span class="line">        Add to mermaid                      :1d</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>语法</tag>
-        <tag>MARKDOWN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2019/11/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
       <categories>
         <category>test</category>
